@@ -45,3 +45,5 @@ For example: `insmod module1.ko`
 **Message Queue**: Communication between two threads with Message Queue.
 
 And I have used Semaphore in **Shared Memory** and **Message Queue**. **Communication Pipeline** is implement by my teammate.
+
+You can find Readme files in these 4 directories. So, it's end.
